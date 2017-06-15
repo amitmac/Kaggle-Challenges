@@ -1,0 +1,1 @@
+To run please download data from https://www.kaggle.com/c/higgs-boson in a separate directory data/
